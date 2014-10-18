@@ -1,0 +1,1 @@
+The objective of this document is to compare cloud computing providers (Amazon, IBM, Microsoft, Google) in terms of several important aspects.
